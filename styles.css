@@ -1,9 +1,11 @@
-<body style="background-color:powderblue;">
+body { 
+  background-color:#f3bee5;
+}
 
 h2 {
 color: Hotpink; font-size:30}
 
 p {
-  font-size: 28;
+  font-size: 31;
   font-family: sans-serif;
 }
