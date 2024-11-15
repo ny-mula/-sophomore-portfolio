@@ -11,7 +11,9 @@ p {
 }
 p {font-size:60;
   }
-
+li {
+  float: left;
+}
 
  li a:link {color:pink;}
   li a:hover {
