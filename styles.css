@@ -11,3 +11,18 @@ p {
 }
 p {font-size:60;
   }
+
+
+ li a:link {color:pink;}
+  li a:hover {
+  background-color: 100;
+  }
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14 16;
+  text-decoration: none;
+}
+                                                                                                          
